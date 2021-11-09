@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OpenClose_Principle/1.0.0": {
+        "runtime": {
+          "OpenClose_Principle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpenClose_Principle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

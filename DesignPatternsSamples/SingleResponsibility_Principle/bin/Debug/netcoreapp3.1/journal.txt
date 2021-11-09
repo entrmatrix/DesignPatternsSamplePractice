@@ -1,0 +1,2 @@
+1: SOLID is an acronym.
+2: We are creating sample for Single Responsibility Principle.

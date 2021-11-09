@@ -1,0 +1,14 @@
+D:\Repos\DesignPatternsSamplePractice\DesignPatternsSamples\OpenClose_Principle\bin\Debug\netcoreapp3.1\OpenClose_Principle.exe
+D:\Repos\DesignPatternsSamplePractice\DesignPatternsSamples\OpenClose_Principle\bin\Debug\netcoreapp3.1\OpenClose_Principle.deps.json
+D:\Repos\DesignPatternsSamplePractice\DesignPatternsSamples\OpenClose_Principle\bin\Debug\netcoreapp3.1\OpenClose_Principle.runtimeconfig.json
+D:\Repos\DesignPatternsSamplePractice\DesignPatternsSamples\OpenClose_Principle\bin\Debug\netcoreapp3.1\OpenClose_Principle.runtimeconfig.dev.json
+D:\Repos\DesignPatternsSamplePractice\DesignPatternsSamples\OpenClose_Principle\bin\Debug\netcoreapp3.1\OpenClose_Principle.dll
+D:\Repos\DesignPatternsSamplePractice\DesignPatternsSamples\OpenClose_Principle\bin\Debug\netcoreapp3.1\OpenClose_Principle.pdb
+D:\Repos\DesignPatternsSamplePractice\DesignPatternsSamples\OpenClose_Principle\obj\Debug\netcoreapp3.1\OpenClose_Principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\DesignPatternsSamplePractice\DesignPatternsSamples\OpenClose_Principle\obj\Debug\netcoreapp3.1\OpenClose_Principle.AssemblyInfoInputs.cache
+D:\Repos\DesignPatternsSamplePractice\DesignPatternsSamples\OpenClose_Principle\obj\Debug\netcoreapp3.1\OpenClose_Principle.AssemblyInfo.cs
+D:\Repos\DesignPatternsSamplePractice\DesignPatternsSamples\OpenClose_Principle\obj\Debug\netcoreapp3.1\OpenClose_Principle.csproj.CoreCompileInputs.cache
+D:\Repos\DesignPatternsSamplePractice\DesignPatternsSamples\OpenClose_Principle\obj\Debug\netcoreapp3.1\OpenClose_Principle.dll
+D:\Repos\DesignPatternsSamplePractice\DesignPatternsSamples\OpenClose_Principle\obj\Debug\netcoreapp3.1\OpenClose_Principle.pdb
+D:\Repos\DesignPatternsSamplePractice\DesignPatternsSamples\OpenClose_Principle\obj\Debug\netcoreapp3.1\OpenClose_Principle.genruntimeconfig.cache
+D:\Repos\DesignPatternsSamplePractice\DesignPatternsSamples\OpenClose_Principle\obj\Debug\netcoreapp3.1\OpenClose_Principle.csproj.AssemblyReference.cache
